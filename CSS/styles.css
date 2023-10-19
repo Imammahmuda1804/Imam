@@ -61,7 +61,7 @@ header h1 {
 }
 .pesan{
     width: 20%;
-    padding: 10px;
+    padding-top: 10px;
     display: block;
     overflow: hidden;
     margin: 5px;
